@@ -1,0 +1,1 @@
+import{d as e,af as t,ai as o,ah as s,am as r,an as n,ao as c}from"./index-0974b000.js";import{N as i}from"./Space-8d96f5f2.js";const l={class:"font-bold text-lg"},m=e({__name:"CSubTitle",props:{context:{}},setup(p){return(a,_)=>(t(),o(c(i),{size:"small",bordered:!1},{default:s(()=>[r("div",l,n(a.context),1)]),_:1}))}});export{m as _};
